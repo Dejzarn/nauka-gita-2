@@ -1,5 +1,16 @@
+* {
+    box-sizing: content-box;
+}
+body {
+    margin: 0;
+}
 header {
     height: 50px;
-    background-color: #313234;
-    background-color: rgba(0.0.0 0.5);
+    // background-color: #313234;
+    background-color: rgba(0,0,0,0.8);
+    nav img {
+        width: 150px;
+        height: 30px;
+        padding: 10px 0;
+    }
 }
